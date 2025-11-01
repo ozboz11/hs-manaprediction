@@ -18,5 +18,5 @@ Amaç, oyun tasarımındaki denge unsurlarını sayısal olarak incelemek ve kar
 
 ## Sonuçlar
 
-- Model doğruluk metriği (R²): **0.77**
-- En yüksek etkiye sahip değişkenler: **Attack**, **Text Embedding Bileşenleri**, **Mechanics**
+- Model doğruluk metriği (R²): **0.75**
+
